@@ -139,6 +139,10 @@ img {
     opacity: 1;
 }
 
+.gallery-item:focus .gallery-item-info ul {
+    opacity: 1;
+}
+
 .visually-hidden,
 .fa-clone::before {
     display: none;
