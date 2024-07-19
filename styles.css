@@ -97,7 +97,6 @@ img {
 
 /* ========Gallery section========= */
 .gallery {
-    border: 2px solid rgb(111, 7, 239);
     margin-top: 1.6em;
     display: grid;
     justify-items: center;
@@ -108,7 +107,6 @@ img {
 
 .gallery-item {
     position: relative;
-    border: 2px solid red;
 }
 
 .gallery-item img {
