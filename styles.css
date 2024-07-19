@@ -24,6 +24,7 @@ img {
 }
 
 /* ======Profile section======== */
+
 .container {
     width: 100%;
     max-width: 50rem;
@@ -96,6 +97,7 @@ img {
 }
 
 /* ========Gallery section========= */
+
 .gallery {
     margin-top: 1.6em;
     display: grid;
@@ -143,6 +145,7 @@ img {
 }
 
 /* ========Loader======== */
+
 .loader {
     margin: 1.6rem auto;
     border: 3px solid #4b7261;
